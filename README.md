@@ -68,7 +68,8 @@ Recommendations
 ##Dashboard Images
 <img width="1311" height="728" alt="PBI_131_Raneesha_Dashboard" src="https://github.com/user-attachments/assets/e119f3e1-a00d-482a-858e-d6e501b77af6" />
 
- <img width="1311" height="728" alt="PBI_131_Raneesha_Dashboard" src="https://github.com/user-attachments/assets/532b24e8-c046-4b4e-aa4c-d2247dff6502" />
+<img width="1920" height="1080" alt="PBI_131_Raneesha_Screenshot_2" src="https://github.com/user-attachments/assets/55d65c6f-2a89-4578-aadc-f28026e3fa5c" />
+
 
 
 <img width="950" height="893" alt="Screenshot 2026-03-24 004740" src="https://github.com/user-attachments/assets/ecaa5439-c3dd-4fd0-a11f-ff433cd9b3bb" />
