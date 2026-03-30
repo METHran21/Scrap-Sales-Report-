@@ -66,10 +66,9 @@ Recommendations
 •	Explore developing the CICL Employee and CCS buyer channels which currently contribute negligible revenue, as internal channels can provide more predictable and stable sales.
 
 ##Dashboard Images
-<img width="1904" height="867" alt="Screenshot 2026-03-24 004540" src="https://github.com/user-attachments/assets/9e20430e-3467-477b-a113-19a96bb197d7" />
+<img width="1311" height="728" alt="PBI_131_Raneesha_Dashboard" src="https://github.com/user-attachments/assets/e119f3e1-a00d-482a-858e-d6e501b77af6" />
 
-<img width="1897" height="908" alt="Screenshot 2026-03-24 004609" src="https://github.com/user-attachments/assets/8960e759-5c91-4079-a0ff-bdf42539deb5" />
+ <img width="1311" height="728" alt="PBI_131_Raneesha_Dashboard" src="https://github.com/user-attachments/assets/532b24e8-c046-4b4e-aa4c-d2247dff6502" />
 
-<img width="1919" height="873" alt="Screenshot 2026-03-24 004634" src="https://github.com/user-attachments/assets/30a03dc8-9a8b-456e-a30a-eb960da013b0" />
 
 <img width="950" height="893" alt="Screenshot 2026-03-24 004740" src="https://github.com/user-attachments/assets/ecaa5439-c3dd-4fd0-a11f-ff433cd9b3bb" />
